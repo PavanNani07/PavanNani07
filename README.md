@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 👯 I’m looking to collaborate on **Cool Project**
+- 👯 I’m looking to collaborate on **Cool Projects**
 
 - 🤝 I’m looking for help with **Anyone**
 
